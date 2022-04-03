@@ -6,10 +6,10 @@ const textLoad = () => {
     }, 0);
     setTimeout(() => {
         text.textContent = "AI security developer";
-    }, 4000);
+    }, 4100);
     setTimeout(() => {
         text.textContent = "PM + 개발자 이찬우(LINKER)입니다.";
-    }, 8000); //1s = 1000 milliseconds
+    }, 8150); //1s = 1000 milliseconds
 }
 
 textLoad();
